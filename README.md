@@ -4,7 +4,7 @@ My name is Riguel Figueiro, I am a fullstack developer and software architecture
 
 ## Trivia about me :zap:
 
- 🌱 I’m currently learning AWS and GraphQL federation
+ 🌱 I’m currently learning GCP and architecture patterns (EDA, Hexagonal, etc..)
  💬 Ask me about anything about JS or NodeJS <3
 
 ## 📫 How to reach me:
